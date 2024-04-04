@@ -1,0 +1,29 @@
+🔞King-Hacking /69-Tools ⬇️
+
+
+$ pkg update &amp;&amp; pkg upgrade
+
+$ pkg install git bash
+
+$ git clone https://github.com/king-hacking/King-Hacking.git
+
+$ cd King-Hacking
+
+$ ls
+
+$ bash King-Tools.sh
+
+[======= Menu =======]
+ [1] DDOS  == xerxer/hammer/Slowloris
+ [2] WEB HACK ==admin-panel-finder/sqldump
+ [3] WIFI HACK=
+ [4] PAYLOAD ==backdoor-apk/msf/A-Rat
+ [5] wordlist  ==Mkls/crunch
+ [6] Password Attacks  ==weeman
+ [7] Tools Root  ==Termux-Sudo/ubuntu/Fedora
+ [8] Spammer &amp; Virus ==Malicious/Spammer-Grab
+ [9] Other
+ [10] About The Programmer
+ [0] exit
+
+Input Choice Number &gt;

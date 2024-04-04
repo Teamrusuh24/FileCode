@@ -1,0 +1,18 @@
+👾pkg update &amp;&amp; pkg upgrade
+
+👾pkg install figlet
+
+👾pkg install git
+
+👾git clone https://github.com/mrVirusspm/viruz
+👾cd viruz
+
+👾ls
+
+👾sh login.sh
+🏷️( Masuk ke script )
+🏷️( Link virus kesatu )
+
+                ⬇️HASIL⬇️
+
+

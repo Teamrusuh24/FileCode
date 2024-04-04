@@ -1,0 +1,24 @@
+👾$ apt-get update
+👾$ apt-get upgrade
+👾$ pkg install termux-keyring zlib 
+👾$ pkg install unstable-repo 
+👾$ pkg install game-repo 
+👾$ pkg install science-repo 
+👾$ pkg install bash 
+👾$ pkg install busybox 
+👾$ pkg install gpgv 
+👾$ pkg install libbz2 
+👾$ pkg install ca-certificates 
+👾$ pkg install dpkg 
+👾$ pkg install libc++ 
+👾$ pkg install libcurl 
+👾$ pkg install gpgv 
+👾$ pkg install libbz2 
+👾$ pkg install ncurses 
+👾$ pkg install readline termux-tools 
+👾$ pkg install libgpg-error 
+👾$ pkg install libnghttp2 
+👾$ pkg install ncurses 
+👾$ pkg install readline termux-tools 
+ 
+(<i>Kemudian Tekan $CLEAR dan enter dan dah selesai)</i>
